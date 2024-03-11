@@ -1,5 +1,0 @@
-telebot
-sqlite3
-datetime
-random
-string
